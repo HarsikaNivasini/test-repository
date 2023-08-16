@@ -1,1 +1,5 @@
-
+{{#user}
+Name: Harsika Nivasini
+Skills: HTML, CSS, JS
+Email: harsikarg@gmail.com
+{{/user}}  
